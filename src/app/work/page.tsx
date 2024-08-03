@@ -140,7 +140,7 @@ const Work = () => {
 													src={project.image}
 													fill
 													className='object-cover'
-													alt=''
+													alt={project.title}
 												/>
 											</div>
 										</div>
